@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: 3da270f2a9e2cd19f4e6cc854cf7ac62e2497eb050da8bbda7d30ff846f0542c
+code: 3DA2-70F2
+locked_at: 2026-09-28T18:46:51+07:00
+shapes: polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 0

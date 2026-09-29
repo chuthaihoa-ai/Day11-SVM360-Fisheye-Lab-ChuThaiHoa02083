@@ -1,1 +1,7 @@
 round,slice,frame,object_ref,cell,what,why,severity,owner,rule_id,evidence,action,rules_version,note
+calib,C0,adasind_019560.jpg,R1,na,MISSING,Chưa gán nhãn đối tượng chuẩn R1 ở bản prefill ban đầu,high,ChuThaiHoa02083,R-01,p1_calib/compare,rework,v1.0,Ghi nhớ kiểm tra kỹ đối tượng R1 theo clinic 6 ngộ nhận
+calib,C0,adasind_019560.jpg,R2,na,MISSING,Bỏ sót đối tượng R2 do biến dạng hình học của ống kính mắt cá,medium,ChuThaiHoa02083,R-02,p1_calib/compare,rework,v1.0,Chú ý các vật thể bị biến dạng ở vùng rìa vòng kính
+calib,C0,adasind_019560.jpg,R3,na,MISSING,Bỏ sót đối tượng R3 do bị che khuất hoặc nằm sát biên ignore_region,medium,ChuThaiHoa02083,R-03,p1_calib/compare,rework,v1.0,Tuân thủ quy tắc cắt biên và che khuất trong docs/02-rules-vi.md
+calib,C0,adasind_019560.jpg,R4,na,MISSING,,,,,,,,
+calib,C0,adasind_019560.jpg,R5,na,MISSING,,,,,,,,
+calib,C0,adasind_019560.jpg,R6,na,MISSING,,,,,,,,

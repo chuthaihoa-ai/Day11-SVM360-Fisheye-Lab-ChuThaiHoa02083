@@ -1,0 +1,23 @@
+{
+  "members": [
+    "hoa",
+    "lich",
+    "toan"
+  ],
+  "assignments": {
+    "hoa": "B2-edge",
+    "lich": "B4-edge",
+    "toan": "B3-dense"
+  },
+  "self": "hoa",
+  "slice": "B2-edge",
+  "degrade": [],
+  "current_slice": "B2-edge",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": [
+    "adasind_069450.jpg:1",
+    "adasind_069450.jpg:2",
+    "adasind_069450.jpg:3"
+  ]
+}
